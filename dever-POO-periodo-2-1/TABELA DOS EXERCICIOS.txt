@@ -1,0 +1,19 @@
+1. Escreva um programa que leia dois números inteiros fornecidos pelo usuário, calcule a soma desses números e exiba o resultado de forma clara e explicativa na tela.
+
+2. Crie um programa que leia um número decimal (do tipo double) e mostre esse número formatado com exatamente três casas decimais na saída. Use manipuladores de fluxo para garantir a formatação.
+
+3. Desenvolva um programa que peça ao usuário a quantidade de dias e, usando uma constante que represente o número de horas em um dia, calcule e exiba quantos segundos existem no total desse período informado.
+
+4. Faça um programa que leia o valor do raio de um círculo (tipo float), utilize uma constante para armazenar o valor de pi e calcule a área do círculo. Apresente o resultado com duas casas decimais.
+
+5. Escreva um programa que receba um único caractere do usuário e exiba o código ASCII correspondente a esse caractere na saída.
+
+6. Crie um programa que solicite ao usuário três números inteiros, calcule a média aritmética desses valores e mostre o resultado com duas casas decimais.
+
+7. Elabore um programa que receba um número inteiro do usuário e exiba o seu valor elevado ao quadrado.
+
+8. Faça um programa que leia um número inteiro e mostre o resultado da divisão desse número por 2, demonstrando tanto a divisão inteira quanto a divisão real (ponto flutuante).
+
+9. Crie um programa que leia um número inteiro e mostre na tela o seu antecessor e seu sucessor.
+
+10. Faça um programa que receba a temperatura em graus Celsius e converta para Fahrenheit, exibindo o resultado com uma casa decimal. A fórmula para conversão é: F = C * 9/5 + 32.
